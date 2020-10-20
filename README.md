@@ -17,3 +17,5 @@
 <li>MongoDB</li>
 </ul>
 
+![screencapture-localhost-3000-employee-2020-10-20-23_22_54](https://user-images.githubusercontent.com/54854216/96625225-8886f700-132b-11eb-8442-7367dfb75e34.png)
+![screencapture-localhost-3000-2020-10-20-22_28_03](https://user-images.githubusercontent.com/54854216/96625236-8a50ba80-132b-11eb-97cb-3376b59afc7b.png)
